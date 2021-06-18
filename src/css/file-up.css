@@ -1,0 +1,16 @@
+.upload-container {
+  width: 50vw;
+  margin: auto;
+}
+
+.image-container {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  height: 500px;
+}
+
+.list-container {
+  width: 50vw;
+  margin: auto!important;
+}
